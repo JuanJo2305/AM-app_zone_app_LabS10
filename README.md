@@ -1,3 +1,24 @@
+# 🎮 Evidencias del funcionamiento del proyecto
+
+  - Login
+
+ <img src="App_Login.png" width="250" />
+
+  - Registro
+
+ <img src="App_Registro.png" width="250" />
+
+  - Dasboard (Autenticación Realizada)
+
+ <img src="App_Dashboard.png" width="250" />
+
+  - Dashboard Invitado
+
+ <img src="App_Invitado.png" width="250" />
+
+# 🎮 Evidencias del funcionamiento del proyecto (Pendiente...)
+
+
 # 🎮 GameVault - Firebase Authentication Android
 
 Una aplicación Android moderna con **Firebase Authentication** y tema gaming completo. Perfecta para aprender autenticación móvil con una interfaz atractiva de videojuegos.
