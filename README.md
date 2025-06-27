@@ -1,4 +1,4 @@
-# 🎮 Evidencias del funcionamiento del proyecto
+# 🎮 Evidencias del funcionamiento del proyecto (Parte 1 :Autenticación)
 
   - Login
 
@@ -16,10 +16,38 @@
 
  <img src="App_Invitado.png" width="250" />
 
-# 🎮 Evidencias del funcionamiento del proyecto (Pendiente...)
+# 🎮 Evidencias del funcionamiento del proyecto (Parte 2 : Base de Datos en Tiempo Real)
 
+  - Se agregó las actividades de Agregar Juegos y Listar Juegos (aquí se podrá mostrar los juegos para poder filtrar ,editarlos y eliminarlos)
 
-# 🎮 GameVault - Firebase Authentication Android
+ <img src="App_Main.jpeg" width="250" />
+
+  - Los usuarios pueden registrar sus juegos favoritos
+
+ <img src="App_Registrar_1.jpeg" width="250" />
+
+ <img src="App_Registrar_2.jpeg" width="250" />
+
+  - Los datos se almacen en Firebase
+ <img src="App_Database.jpg" width="1920" />
+
+# ✨ Funcionalidades Extra
+  - Los usuarios pueden editar juegos existentes (Tocando una sola vez las cardView del juego)
+ <img src="App_Editar_1.jpeg" width="250" />
+ <img src="App_Editar_2.jpeg" width="250" />
+ 
+   - Los usuarios pueden eliminar juegos (Manteniendo presionado la cardView del juego)
+ <img src="App_Eliminar_1.jpeg" width="250" />
+ <img src="App_Eliminar_2.jpeg" width="250" />
+
+  - Los usuarios pueden filtrar sus juegos por género
+ <img src="App_Filtrar_Genero_1.jpeg" width="250" />
+ <img src="App_Filtrar_Genero_2.jpeg" width="250" />
+
+- Los usuarios pueden buscar sus juegos por título 
+ <img src="App_Filtrar_Titulo.jpeg" width="250" />
+
+# 🎮 GameVault - Firebase Authentication Android 
 
 Una aplicación Android moderna con **Firebase Authentication** y tema gaming completo. Perfecta para aprender autenticación móvil con una interfaz atractiva de videojuegos.
 
