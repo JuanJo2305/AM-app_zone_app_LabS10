@@ -33,7 +33,15 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        
+
+        <activity android:name=".AddGameActivity" />
+
+        <activity android:name=".GamesListActivity" />
+
+        <activity android:name=".EditGameActivity" />
+
+
+
     </application>
 
 </manifest>
